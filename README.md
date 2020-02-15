@@ -3,9 +3,9 @@
 
 This is a new project for JS group
 
--[x] Finish my changes
--[] Push commit to github
--[] Open a pull request
+- [x] Finish my changes
+- [ ] Push commit to github
+- [ ] Open a pull request
 
 ### Ejemplo de codigo
 ´´´this is a code ´´´
