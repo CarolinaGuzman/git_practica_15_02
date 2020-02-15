@@ -1,5 +1,5 @@
-Bedu travels 
-Práctica de html, css y git.
+#Bedu travels 
+#Práctica de html, css y git.
 
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
